@@ -2,5 +2,4 @@
 Lego robothoz kód. 
 
 Programozó: Horváth Dániel
-
 Építő: Póczak Péter 
