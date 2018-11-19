@@ -4,3 +4,5 @@ Lego robothoz kód.
 Mérnök: Póczak Péter 
 
 Fejlesztő: Horváth Dániel
+
+Tanár: Bedő Ferenc
